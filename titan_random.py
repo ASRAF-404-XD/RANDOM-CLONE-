@@ -1,4 +1,4 @@
-kire sala sc chori korte aiso
+#kire sala sc chori korte aiso
 # Compiled By Mr Mafi | Muhammad Muzammil
 # Github :  https://github.com/Muzammil-404
 
